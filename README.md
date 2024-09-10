@@ -1,4 +1,6 @@
 # Calculator - By JEET BANERJEE
+![Screenshot 2024-09-10 212421](https://github.com/user-attachments/assets/84f5bc36-edc1-4167-8db4-40efdd8e3757)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
